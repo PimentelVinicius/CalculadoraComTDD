@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vinicius\\Desktop\\Estudos\\Dio\\CalculadoComHistoricoTDD\\CalculadoraComHistoricoTDD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D28CB66F-3B3A-4DB3-8498-A23495D0F1BB}|TestCalculadoraComHistoricoTDD\\TestCalculadoraComHistoricoTDD.csproj|c:\\users\\vinicius\\desktop\\estudos\\dio\\calculadocomhistoricotdd\\calculadoracomhistoricotdd\\testcalculadoracomhistoricotdd\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D28CB66F-3B3A-4DB3-8498-A23495D0F1BB}|TestCalculadoraComHistoricoTDD\\TestCalculadoraComHistoricoTDD.csproj|solutionrelative:testcalculadoracomhistoricotdd\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8D018-A99E-4E2F-9680-B22793B1EBE2}|CalculadoraComHistoricoTDD\\CalculadoraComHistoricoTDD.csproj|c:\\users\\vinicius\\desktop\\estudos\\dio\\calculadocomhistoricotdd\\calculadoracomhistoricotdd\\calculadoracomhistoricotdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8D018-A99E-4E2F-9680-B22793B1EBE2}|CalculadoraComHistoricoTDD\\CalculadoraComHistoricoTDD.csproj|solutionrelative:calculadoracomhistoricotdd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8D018-A99E-4E2F-9680-B22793B1EBE2}|CalculadoraComHistoricoTDD\\CalculadoraComHistoricoTDD.csproj|c:\\users\\vinicius\\desktop\\estudos\\dio\\calculadocomhistoricotdd\\calculadoracomhistoricotdd\\calculadoracomhistoricotdd\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06B8D018-A99E-4E2F-9680-B22793B1EBE2}|CalculadoraComHistoricoTDD\\CalculadoraComHistoricoTDD.csproj|solutionrelative:calculadoracomhistoricotdd\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D28CB66F-3B3A-4DB3-8498-A23495D0F1BB}|TestCalculadoraComHistoricoTDD\\TestCalculadoraComHistoricoTDD.csproj|c:\\users\\vinicius\\desktop\\estudos\\dio\\calculadocomhistoricotdd\\calculadoracomhistoricotdd\\testcalculadoracomhistoricotdd\\testcalculadoracomhistoricotdd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D28CB66F-3B3A-4DB3-8498-A23495D0F1BB}|TestCalculadoraComHistoricoTDD\\TestCalculadoraComHistoricoTDD.csproj|solutionrelative:testcalculadoracomhistoricotdd\\testcalculadoracomhistoricotdd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06B8D018-A99E-4E2F-9680-B22793B1EBE2}|CalculadoraComHistoricoTDD\\CalculadoraComHistoricoTDD.csproj|c:\\users\\vinicius\\desktop\\estudos\\dio\\calculadocomhistoricotdd\\calculadoracomhistoricotdd\\calculadoracomhistoricotdd\\calculadoracomhistoricotdd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{06B8D018-A99E-4E2F-9680-B22793B1EBE2}|CalculadoraComHistoricoTDD\\CalculadoraComHistoricoTDD.csproj|solutionrelative:calculadoracomhistoricotdd\\calculadoracomhistoricotdd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\Estudos\\Dio\\CalculadoComHistoricoTDD\\CalculadoraComHistoricoTDD\\CalculadoraComHistoricoTDD\\Calculadora.cs",
+              "RelativeDocumentMoniker": "CalculadoraComHistoricoTDD\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\Estudos\\Dio\\CalculadoComHistoricoTDD\\CalculadoraComHistoricoTDD\\CalculadoraComHistoricoTDD\\Calculadora.cs",
+              "RelativeToolTip": "CalculadoraComHistoricoTDD\\Calculadora.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCwAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:50:17.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\Estudos\\Dio\\CalculadoComHistoricoTDD\\CalculadoraComHistoricoTDD\\TestCalculadoraComHistoricoTDD\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TestCalculadoraComHistoricoTDD\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\Estudos\\Dio\\CalculadoComHistoricoTDD\\CalculadoraComHistoricoTDD\\TestCalculadoraComHistoricoTDD\\UnitTest1.cs",
+              "RelativeToolTip": "TestCalculadoraComHistoricoTDD\\UnitTest1.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:49:02.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculadoraComHistoricoTDD",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\Estudos\\Dio\\CalculadoComHistoricoTDD\\CalculadoraComHistoricoTDD\\CalculadoraComHistoricoTDD\\CalculadoraComHistoricoTDD.csproj",
+              "RelativeDocumentMoniker": "CalculadoraComHistoricoTDD\\CalculadoraComHistoricoTDD.csproj",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\Estudos\\Dio\\CalculadoComHistoricoTDD\\CalculadoraComHistoricoTDD\\CalculadoraComHistoricoTDD\\CalculadoraComHistoricoTDD.csproj",
+              "RelativeToolTip": "CalculadoraComHistoricoTDD\\CalculadoraComHistoricoTDD.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T21:49:27.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestCalculadoraComHistoricoTDD",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\Estudos\\Dio\\CalculadoComHistoricoTDD\\CalculadoraComHistoricoTDD\\TestCalculadoraComHistoricoTDD\\TestCalculadoraComHistoricoTDD.csproj",
+              "RelativeDocumentMoniker": "TestCalculadoraComHistoricoTDD\\TestCalculadoraComHistoricoTDD.csproj",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\Estudos\\Dio\\CalculadoComHistoricoTDD\\CalculadoraComHistoricoTDD\\TestCalculadoraComHistoricoTDD\\TestCalculadoraComHistoricoTDD.csproj",
+              "RelativeToolTip": "TestCalculadoraComHistoricoTDD\\TestCalculadoraComHistoricoTDD.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T21:49:24.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vinicius\\Desktop\\Estudos\\Dio\\CalculadoComHistoricoTDD\\CalculadoraComHistoricoTDD\\CalculadoraComHistoricoTDD\\Program.cs",
+              "RelativeDocumentMoniker": "CalculadoraComHistoricoTDD\\Program.cs",
+              "ToolTip": "C:\\Users\\Vinicius\\Desktop\\Estudos\\Dio\\CalculadoComHistoricoTDD\\CalculadoraComHistoricoTDD\\CalculadoraComHistoricoTDD\\Program.cs",
+              "RelativeToolTip": "CalculadoraComHistoricoTDD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T21:42:49.536Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

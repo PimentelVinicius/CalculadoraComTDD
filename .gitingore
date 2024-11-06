@@ -1,0 +1,13 @@
+# Excluir a pasta .vs do Visual Studio
+.vs/
+
+# Excluir pastas de compilação
+bin/
+obj/
+
+# Excluir arquivos temporários do usuário
+*.user
+*.suo
+
+# Excluir pacotes NuGet restaurados localmente
+packages/

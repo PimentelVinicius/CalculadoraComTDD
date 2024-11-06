@@ -1,0 +1,14 @@
+C:\Users\Vinicius\Desktop\Estudos\Dio\CalculadoComHistoricoTDD\CalculadoraComHistoricoTDD\CalculadoraComHistoricoTDD\bin\Debug\net8.0\CalculadoraComHistoricoTDD.exe
+C:\Users\Vinicius\Desktop\Estudos\Dio\CalculadoComHistoricoTDD\CalculadoraComHistoricoTDD\CalculadoraComHistoricoTDD\bin\Debug\net8.0\CalculadoraComHistoricoTDD.deps.json
+C:\Users\Vinicius\Desktop\Estudos\Dio\CalculadoComHistoricoTDD\CalculadoraComHistoricoTDD\CalculadoraComHistoricoTDD\bin\Debug\net8.0\CalculadoraComHistoricoTDD.runtimeconfig.json
+C:\Users\Vinicius\Desktop\Estudos\Dio\CalculadoComHistoricoTDD\CalculadoraComHistoricoTDD\CalculadoraComHistoricoTDD\bin\Debug\net8.0\CalculadoraComHistoricoTDD.dll
+C:\Users\Vinicius\Desktop\Estudos\Dio\CalculadoComHistoricoTDD\CalculadoraComHistoricoTDD\CalculadoraComHistoricoTDD\bin\Debug\net8.0\CalculadoraComHistoricoTDD.pdb
+C:\Users\Vinicius\Desktop\Estudos\Dio\CalculadoComHistoricoTDD\CalculadoraComHistoricoTDD\CalculadoraComHistoricoTDD\obj\Debug\net8.0\CalculadoraComHistoricoTDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinicius\Desktop\Estudos\Dio\CalculadoComHistoricoTDD\CalculadoraComHistoricoTDD\CalculadoraComHistoricoTDD\obj\Debug\net8.0\CalculadoraComHistoricoTDD.AssemblyInfoInputs.cache
+C:\Users\Vinicius\Desktop\Estudos\Dio\CalculadoComHistoricoTDD\CalculadoraComHistoricoTDD\CalculadoraComHistoricoTDD\obj\Debug\net8.0\CalculadoraComHistoricoTDD.AssemblyInfo.cs
+C:\Users\Vinicius\Desktop\Estudos\Dio\CalculadoComHistoricoTDD\CalculadoraComHistoricoTDD\CalculadoraComHistoricoTDD\obj\Debug\net8.0\CalculadoraComHistoricoTDD.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\Estudos\Dio\CalculadoComHistoricoTDD\CalculadoraComHistoricoTDD\CalculadoraComHistoricoTDD\obj\Debug\net8.0\CalculadoraComHistoricoTDD.dll
+C:\Users\Vinicius\Desktop\Estudos\Dio\CalculadoComHistoricoTDD\CalculadoraComHistoricoTDD\CalculadoraComHistoricoTDD\obj\Debug\net8.0\refint\CalculadoraComHistoricoTDD.dll
+C:\Users\Vinicius\Desktop\Estudos\Dio\CalculadoComHistoricoTDD\CalculadoraComHistoricoTDD\CalculadoraComHistoricoTDD\obj\Debug\net8.0\CalculadoraComHistoricoTDD.pdb
+C:\Users\Vinicius\Desktop\Estudos\Dio\CalculadoComHistoricoTDD\CalculadoraComHistoricoTDD\CalculadoraComHistoricoTDD\obj\Debug\net8.0\CalculadoraComHistoricoTDD.genruntimeconfig.cache
+C:\Users\Vinicius\Desktop\Estudos\Dio\CalculadoComHistoricoTDD\CalculadoraComHistoricoTDD\CalculadoraComHistoricoTDD\obj\Debug\net8.0\ref\CalculadoraComHistoricoTDD.dll
